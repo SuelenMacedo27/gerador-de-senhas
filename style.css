@@ -37,6 +37,14 @@ input{
     width: 100%;
 }
 
+.btn1{
+    background-color: aquamarine;
+}
+
+.btn2{
+    background-color: rgb(245, 245, 209);
+}    
+
 button{
     font-size: 14px;
     border-radius: 5px;
